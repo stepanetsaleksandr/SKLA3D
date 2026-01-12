@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "baseUrl": "https://raw.githubusercontent.com/stepanetsaleksandr/SKLA3D/main",
+  "lastUpdated": "2024-01-15T00:00:00Z",
+  "groups": {
+    "stele": [
+      {
+        "id": "stele_001",
+        "name": "Стела 001",
+        "file": "models/stele/stele_001.glb",
+        "size": 43012
+		}
+    ]    
+  }
+}
