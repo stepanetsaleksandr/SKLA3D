@@ -9,6 +9,24 @@
         "name": "Стела 001",
         "file": "models/stele/stele_001.glb",
         "size": 43012
+		},
+		{
+        "id": "stele_002",
+        "name": "Стела 002",
+        "file": "models/stele/stele_002.glb",
+        "size": 43012
+		},
+		{
+        "id": "stele_003",
+        "name": "Стела 003",
+        "file": "models/stele/stele_003.glb",
+        "size": 43012
+		},
+		{
+        "id": "stele_004",
+        "name": "Стела 004",
+        "file": "models/stele/stele_004.glb",
+        "size": 43012
 		}
     ]    
   }
