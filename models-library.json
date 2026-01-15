@@ -8,7 +8,7 @@
         "id": "stele_001",
         "name": "Стела 001",
         "file": "models/stele/stele_001.glb",
-        "size": 43012
+        "size": 43012,
 		"thumbnail": "models/stele/thumbnails/stele_001.jpg"
       },
       {
