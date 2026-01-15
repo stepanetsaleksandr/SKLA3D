@@ -9,6 +9,7 @@
         "name": "Стела 001",
         "file": "models/stele/stele_001.glb",
         "size": 43012
+		"thumbnail": "models/stele/thumbnails/stele_001.jpg"
       },
       {
         "id": "stele_002",
