@@ -79,8 +79,8 @@
       {
         "id": "grave_001",
         "name": "Надгробка",
-        "file": "grave/grave_001.glb",
-        "thumbnail": "grave/grave_001.jpg"
+        "file": "models/grave/grave_001.glb",
+        "thumbnail": "models/grave/grave_001.jpg"
       }
     ]
   }
