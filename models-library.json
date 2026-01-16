@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/stepanetsaleksandr/SKLA3D/main",
-  "lastUpdated": "2024-01-15T00:00:00Z",
+  "lastUpdated": "2026-01-16T14:15:00Z",
   "groups": {
     "stele": [
       {
@@ -9,61 +9,70 @@
         "name": "Стела 001",
         "file": "models/stele/stele_001.glb",
         "size": 43012,
-		"thumbnail": "models/stele/thumbnails/stele_001.jpg"
+        "thumbnail": "models/stele/thumbnails/stele_001.jpg"
       },
       {
         "id": "stele_002",
         "name": "Стела 002",
         "file": "models/stele/stele_002.glb",
-        "size": 43012
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_002.jpg"
       },
       {
         "id": "stele_003",
         "name": "Стела 003",
         "file": "models/stele/stele_003.glb",
-        "size": 43012
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_003.jpg"
       },
       {
         "id": "stele_004",
         "name": "Стела 004",
         "file": "models/stele/stele_004.glb",
-        "size": 43012
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_004.jpg"
       },
       {
         "id": "stele_005",
         "name": "Стела 005",
         "file": "models/stele/stele_005.glb",
-        "size": 43012
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_005.jpg"
       },
       {
         "id": "stele_006",
         "name": "Стела 006",
         "file": "models/stele/stele_006.glb",
-        "size": 43012
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_006.jpg"
       },
       {
         "id": "stele_007",
         "name": "Стела 007",
         "file": "models/stele/stele_007.glb",
-        "size": 43012
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_007.jpg"
       },
       {
         "id": "stele_008",
         "name": "Стела 008",
         "file": "models/stele/stele_008.glb",
-        "size": 43012
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_008.jpg"
       },
       {
         "id": "stele_009",
         "name": "Стела 009",
         "file": "models/stele/stele_009.glb",
-        "size": 43012
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_009.jpg"
       },
       {
         "id": "stele_010",
         "name": "Стела 010",
         "file": "models/stele/stele_010.glb",
-        "size": 43012
+        "size": 43012,
+        "thumbnail": "models/stele/thumbnails/stele_010.jpg"
       }
     ]
   }
