@@ -74,6 +74,14 @@
         "size": 43012,
         "thumbnail": "models/stele/thumbnails/stele_010.jpg"
       }
+    ],
+	"gravePart": [
+      {
+        "id": "grave_001",
+        "name": "Надгробка",
+        "file": "grave/grave_001.glb",
+        "thumbnail": "grave/grave_001.jpg"
+      }
     ]
   }
 }
