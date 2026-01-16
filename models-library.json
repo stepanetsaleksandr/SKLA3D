@@ -80,7 +80,7 @@
         "id": "grave_001",
         "name": "Надгробка",
         "file": "models/grave/grave_001.glb",
-        "thumbnail": "models/grave/grave_001.jpg"
+        "thumbnail": "models/thumbnails/grave_001.jpg"
       }
     ]
   }
