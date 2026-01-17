@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/stepanetsaleksandr/SKLA3D/main",
-  "lastUpdated": "2026-01-16T14:15:00Z",
+  "lastUpdated": "2026-01-17T16:45:00Z",
   "groups": {
     "stele": [
       {
@@ -75,13 +75,76 @@
         "thumbnail": "models/stele/thumbnails/stele_010.jpg"
       }
     ],
-	"gravePart": [
+    "gravePart": [
       {
         "id": "grave_001",
-        "name": "Надгробка",
+        "name": "Надгробка 001",
         "file": "models/grave/grave_001.glb",
-		"size": 43012,
+        "size": 43012,
         "thumbnail": "models/grave/thumbnails/grave_001.jpg"
+      },
+      {
+        "id": "grave_002",
+        "name": "Надгробка 002",
+        "file": "models/grave/grave_002.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_002.jpg"
+      },
+      {
+        "id": "grave_003",
+        "name": "Надгробка 003",
+        "file": "models/grave/grave_003.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_003.jpg"
+      },
+      {
+        "id": "grave_004",
+        "name": "Надгробка 004",
+        "file": "models/grave/grave_004.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_004.jpg"
+      },
+      {
+        "id": "grave_005",
+        "name": "Надгробка 005",
+        "file": "models/grave/grave_005.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_005.jpg"
+      },
+      {
+        "id": "grave_006",
+        "name": "Надгробка 006",
+        "file": "models/grave/grave_006.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_006.jpg"
+      },
+      {
+        "id": "grave_007",
+        "name": "Надгробка 007",
+        "file": "models/grave/grave_007.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_007.jpg"
+      },
+      {
+        "id": "grave_008",
+        "name": "Надгробка 008",
+        "file": "models/grave/grave_008.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_008.jpg"
+      },
+      {
+        "id": "grave_009",
+        "name": "Надгробка 009",
+        "file": "models/grave/grave_009.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_009.jpg"
+      },
+      {
+        "id": "grave_010",
+        "name": "Надгробка 010",
+        "file": "models/grave/grave_010.glb",
+        "size": 43012,
+        "thumbnail": "models/grave/thumbnails/grave_010.jpg"
       }
     ]
   }
