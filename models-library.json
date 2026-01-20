@@ -146,6 +146,38 @@
         "size": 43012,
         "thumbnail": "models/grave/thumbnails/grave_010.jpg"
       }
+    ],
+	"fence_decor": [
+      {
+        "id": "fence_decor_001",
+        "name": "Куля",
+        "file": "fence/decor/fence_decor_001.glb",
+        "thumbnail": "fence/decor/thumbnails/fence_decor_001.png"
+      },
+      {
+        "id": "fence_decor_002",
+        "name": "Куля",
+        "file": "fence/decor/fence_decor_002.glb",
+        "thumbnail": "fence/decor/thumbnails/fence_decor_002.png"
+      },
+      {
+        "id": "fence_decor_003",
+        "name": "Куб",
+        "file": "fence/decor/fence_decor_003.glb",
+        "thumbnail": "fence/decor/thumbnails/fence_decor_003.png"
+      },
+      {
+        "id": "fence_decor_004",
+        "name": "Полямя",
+        "file": "fence/decor/fence_decor_004.glb",
+        "thumbnail": "fence/decor/thumbnails/fence_decor_004.png"
+      },
+      {
+        "id": "fence_decor_005",
+        "name": "Чаша",
+        "file": "fence/decor/fence_decor_005.glb",
+        "thumbnail": "fence/decor/thumbnails/fence_decor_005.png"
+      }
     ]
   }
 }
