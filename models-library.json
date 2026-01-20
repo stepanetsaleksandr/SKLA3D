@@ -177,6 +177,18 @@
         "name": "Чаша",
         "file": "fence/decor/fence_decor_005.glb",
         "thumbnail": "fence/decor/thumbnails/fence_decor_005.png"
+      },
+      {
+        "id": "fence_decor_006",
+        "name": "Піраміда",
+        "file": "fence/decor/fence_decor_006.glb",
+        "thumbnail": "fence/decor/thumbnails/fence_decor_006.png"
+      },
+      {
+        "id": "fence_decor_007",
+        "name": "Декор",
+        "file": "fence/decor/fence_decor_007.glb",
+        "thumbnail": "fence/decor/thumbnails/fence_decor_007.png"
       }
     ]
   }
