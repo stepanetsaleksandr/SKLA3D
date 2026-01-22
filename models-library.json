@@ -196,7 +196,7 @@
     "id": "corner_001",
     "name": "Кутовий елемент 001",
     "file": "fence/corner/fence_corner_001.glb",
-    "thumbnail": "fence/corner/fence_corner_001.jpg",
+    "thumbnail": "fence/corner/thumbnails/fence_corner_001.jpg",
     "size": 1234,
     "tags": ["fence", "corner"]
   },
@@ -204,7 +204,7 @@
     "id": "corner_002",
     "name": "Кутовий елемент 002",
     "file": "fence/corner/fence_corner_002.glb",
-    "thumbnail": "fence/corner/fence_corner_002.jpg",
+    "thumbnail": "fence/corner/thumbnails/fence_corner_002.jpg",
     "size": 1234,
     "tags": ["fence", "corner"]
   },
@@ -212,7 +212,7 @@
     "id": "corner_003",
     "name": "Кутовий елемент 003",
     "file": "fence/corner/fence_corner_003.glb",
-    "thumbnail": "fence/corner/fence_corner_003.jpg",
+    "thumbnail": "fence/corner/thumbnails/fence_corner_003.jpg",
     "size": 1234,
     "tags": ["fence", "corner"]
   },
@@ -220,7 +220,7 @@
     "id": "corner_004",
     "name": "Кутовий елемент 004",
     "file": "fence/corner/fence_corner_004.glb",
-    "thumbnail": "fence/corner/fence_corner_004.jpg",
+    "thumbnail": "fence/corner/thumbnails/fence_corner_004.jpg",
     "size": 1234,
     "tags": ["fence", "corner"]
   },
@@ -228,7 +228,7 @@
     "id": "corner_005",
     "name": "Кутовий елемент 005",
     "file": "fence/corner/fence_corner_005.glb",
-    "thumbnail": "fence/corner/fence_corner_005.jpg",
+    "thumbnail": "fence/corner/thumbnails/fence_corner_005.jpg",
     "size": 1234,
     "tags": ["fence", "corner"]
   },
@@ -236,7 +236,7 @@
     "id": "corner_006",
     "name": "Кутовий елемент 006",
     "file": "fence/corner/fence_corner_006.glb",
-    "thumbnail": "fence/corner/fence_corner_006.jpg",
+    "thumbnail": "fence/corner/thumbnails/fence_corner_006.jpg",
     "size": 1234,
     "tags": ["fence", "corner"]
   }
