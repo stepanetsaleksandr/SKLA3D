@@ -240,6 +240,15 @@
     "size": 1234,
     "tags": ["fence", "corner"]
   }
-]
+],
+"column": [
+      {
+        "id": "column_001",
+        "name": "Колона 001",
+        "file": "models/column/column_1.glb",
+        "size": 1234,
+        "thumbnail": "models/column/thumbnails/column_1.jpg"
+      }
+    ]
   }
 }
