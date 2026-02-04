@@ -242,13 +242,104 @@
   }
 ],
 "column": [
-      {
-        "id": "column_001",
-        "name": "Колона 001",
-        "file": "models/column/column_1.glb",
-        "size": 1234,
-        "thumbnail": "models/column/thumbnails/column_1.jpg"
-      }
-    ]
+    {
+      "id": "column_001",
+      "name": "Колона 001",
+      "file": "models/column/column_1.glb",
+      "size": 1234,
+      "thumbnail": "models/column/thumbnails/column_1.jpg"
+    },
+    {
+      "id": "column_002",
+      "name": "Колона 002",
+      "file": "models/column/column_2.glb",
+      "size": 1450,
+      "thumbnail": "models/column/thumbnails/column_2.jpg"
+    },
+    {
+      "id": "column_003",
+      "name": "Колона 003",
+      "file": "models/column/column_3.glb",
+      "size": 1120,
+      "thumbnail": "models/column/thumbnails/column_3.jpg"
+    },
+    {
+      "id": "column_004",
+      "name": "Колона 004",
+      "file": "models/column/column_4.glb",
+      "size": 1380,
+      "thumbnail": "models/column/thumbnails/column_4.jpg"
+    },
+    {
+      "id": "column_005",
+      "name": "Колона 005",
+      "file": "models/column/column_5.glb",
+      "size": 1560,
+      "thumbnail": "models/column/thumbnails/column_5.jpg"
+    },
+    {
+      "id": "column_006",
+      "name": "Колона 006",
+      "file": "models/column/column_6.glb",
+      "size": 1295,
+      "thumbnail": "models/column/thumbnails/column_6.jpg"
+    },
+    {
+      "id": "column_007",
+      "name": "Колона 007",
+      "file": "models/column/column_7.glb",
+      "size": 1410,
+      "thumbnail": "models/column/thumbnails/column_7.jpg"
+    },
+    {
+      "id": "column_008",
+      "name": "Колона 008",
+      "file": "models/column/column_8.glb",
+      "size": 1185,
+      "thumbnail": "models/column/thumbnails/column_8.jpg"
+    },
+    {
+      "id": "column_009",
+      "name": "Колона 009",
+      "file": "models/column/column_9.glb",
+      "size": 1340,
+      "thumbnail": "models/column/thumbnails/column_9.jpg"
+    },
+    {
+      "id": "column_010",
+      "name": "Колона 010",
+      "file": "models/column/column_10.glb",
+      "size": 1620,
+      "thumbnail": "models/column/thumbnails/column_10.jpg"
+    },
+    {
+      "id": "column_011",
+      "name": "Колона 011",
+      "file": "models/column/column_11.glb",
+      "size": 1275,
+      "thumbnail": "models/column/thumbnails/column_11.jpg"
+    },
+    {
+      "id": "column_012",
+      "name": "Колона 012",
+      "file": "models/column/column_12.glb",
+      "size": 1490,
+      "thumbnail": "models/column/thumbnails/column_12.jpg"
+    },
+    {
+      "id": "column_013",
+      "name": "Колона 013",
+      "file": "models/column/column_13.glb",
+      "size": 1530,
+      "thumbnail": "models/column/thumbnails/column_13.jpg"
+    },
+    {
+      "id": "column_014",
+      "name": "Колона 014",
+      "file": "models/column/column_14.glb",
+      "size": 1315,
+      "thumbnail": "models/column/thumbnails/column_14.jpg"
+    }
+  ]
   }
 }
