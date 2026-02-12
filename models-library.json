@@ -347,14 +347,14 @@
     "name": "Лампадка",
     "file": "models/additional/additional_001.glb",
     "thumbnail": "models/additional/thumbnails/additional_001.jpg",
-    "size": 43012,
+    "size": 43012
       },
   {
     "id": "additional_002",
     "name": "Лампадка кругла",
     "file": "models/additional/additional_002.glb",
     "thumbnail": "models/additional/thumbnails/additional_002.jpg",
-    "size": 43012,
+    "size": 43012
       }
 ]
   }
