@@ -17,8 +17,12 @@ set CURRENT_TIME=%date% %time%
 echo 2. Створення комміту...
 git commit -m "Auto-update models: %CURRENT_TIME%"
 
+:: Синхронізація з remote перед відправкою
+echo 3. Синхронізація з GitHub...
+git pull --rebase origin main
+
 :: Відправка в репозиторій
-echo 3. Відправка на GitHub (main)...
+echo 4. Відправка на GitHub (main)...
 git push origin main
 
 echo === Готово! Зміни опубліковано ===
