@@ -61,8 +61,11 @@
       { "id": "column_014", "name": "Колона 014", "file": "models/column/column_14.glb", "size": 1315, "thumbnail": "models/column/thumbnails/column_14.jpg" }
     ],
     "additionalElements": [
-      { "id": "additional_001", "name": "Лампадка", "file": "models/additional/additional_001.glb", "thumbnail": "models/additional/thumbnails/additional_001.jpg", "size": 82876 },
-      { "id": "additional_002", "name": "Лампадка кругла", "file": "models/additional/additional_002.glb", "thumbnail": "models/additional/thumbnails/additional_002.jpg", "size": 358256 }
+      { "id": "additional_001", "name": "Лампадка квыдрат нова", "file": "models/additional/additional_001.glb", "thumbnail": "models/additional/thumbnails/additional_001.jpg", "size": 82876 },
+      { "id": "additional_002", "name": "Лампадка кругла", "file": "models/additional/additional_002.glb", "thumbnail": "models/additional/thumbnails/additional_002.jpg", "size": 358256 },
+	  { "id": "additional_003", "name": "Лампадка квадрат класична", "file": "models/additional/additional_003.glb", "thumbnail": "models/additional/thumbnails/additional_003.jpg", "size": 82876 },
+      { "id": "additional_004", "name": "Лампадка кругла нова", "file": "models/additional/additional_004.glb", "thumbnail": "models/additional/thumbnails/additional_004.jpg", "size": 358256 }
+    
     ]
   }
 }
